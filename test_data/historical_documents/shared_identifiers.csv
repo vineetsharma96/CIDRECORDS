@@ -1,0 +1,3 @@
+data_label,profile_id,name,aliases,phone,account,bank,address,birth_date,vehicle,organisation,case,date,role,source_id
+SYNTHETIC TEST DATA,,Ivo Maren,,TEST-NEW-007,000001TEST,Fictional Harbour Bank,,1982-06-06,,,,,,
+SYNTHETIC TEST DATA,,Sana Voss,,TEST-NEW-008,,,"12 Imaginary Lane, Fictional Bay",1994-01-17,,,,,,

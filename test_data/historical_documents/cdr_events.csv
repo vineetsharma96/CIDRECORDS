@@ -1,0 +1,2 @@
+data_label,caller_number,receiver_number,call_date,duration,case
+SYNTHETIC TEST DATA,TEST-CALL-001,TEST-CALL-002,2024-04-01,30,SYN-CDR

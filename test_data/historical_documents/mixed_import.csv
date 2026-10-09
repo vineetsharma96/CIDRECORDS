@@ -1,0 +1,8 @@
+data_label,profile_id,name,aliases,phone,account,bank,address,birth_date,vehicle,organisation,case,date,role,source_id
+SYNTHETIC TEST DATA,SYN-P001,Mira Sen,,TEST-00001,000001TEST,Fictional Harbour Bank,"12 Imaginary Lane, Fictional Bay",1988-04-12,,,SYN-CASE-01,,witness,
+SYNTHETIC TEST DATA,,Mira Senn,,TEST-00001,,,"12 Imaginary Lane, Fictional Bay",12/04/1988,,,,,,
+SYNTHETIC TEST DATA,,Mira Sen,,,,,,,,,,,,
+SYNTHETIC TEST DATA,,Oren Vale,,TEST-00012,000012TEST,Fictional Harbour Bank,,1991-06-21,,,SYN-CASE-04,,,
+SYNTHETIC TEST DATA,,,,TEST-UNNAMED-013,000013TEST,,,,,,,,,
+SYNTHETIC TEST DATA,,,,,,,,,,,,,,
+SYNTHETIC TEST DATA,SYN-P001,Mira Sen,,TEST-00001,000001TEST,Fictional Harbour Bank,"12 Imaginary Lane, Fictional Bay",1988-04-12,,,SYN-CASE-01,,witness,

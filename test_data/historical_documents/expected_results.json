@@ -1,0 +1,68 @@
+{
+  "label": "SYNTHETIC TEST DATA",
+  "seed_count": 6,
+  "exact_duplicates.csv": {
+    "enriched": 2,
+    "created": 0,
+    "skipped": 1
+  },
+  "partial_and_missing_fields.csv": {
+    "enriched": 2,
+    "created": 0,
+    "preserve_blanks": true
+  },
+  "ambiguous_matches.csv": {
+    "review_rows": [
+      2,
+      3,
+      5
+    ],
+    "enrich_rows": [
+      4
+    ],
+    "never_name_only_merge": true
+  },
+  "shared_identifiers.csv": {
+    "review_rows": [
+      2,
+      3
+    ],
+    "recommended_review_action": "separate",
+    "distinct_people": true
+  },
+  "new_entities.csv": {
+    "created": 2,
+    "unresolved": 1,
+    "skipped": 1
+  },
+  "mixed_import.csv": {
+    "enriched": 2,
+    "created": 1,
+    "deferred": 1,
+    "unresolved": 1,
+    "skipped": 2
+  },
+  "historical_case_notes.pdf": {
+    "people": 4,
+    "pages": 2,
+    "explicit_relationship": "Mira Sen met with Arin Das"
+  },
+  "scanned_case_notes.pdf": {
+    "review_required": true,
+    "correct_name": "Mira Sen",
+    "correct_phone": "TEST-00001"
+  },
+  "repeat_upload": "Same job ID; no duplicate profile or source claims",
+  "concurrent_import": "Serial transaction lock; re-evaluate against committed profiles",
+  "undo": "Return claims to proposed state; preserve original values and audit history",
+  "cdr_events.csv": {
+    "unresolved": 1,
+    "relationship": "CALLS",
+    "new_people": 0
+  },
+  "financial_events.csv": {
+    "unresolved": 1,
+    "relationship": "TRANSFERS",
+    "new_people": 0
+  }
+}

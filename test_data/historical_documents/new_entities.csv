@@ -1,0 +1,5 @@
+data_label,profile_id,name,aliases,phone,account,bank,address,birth_date,vehicle,organisation,case,date,role,source_id
+SYNTHETIC TEST DATA,,Tara Nolin,,TEST-00009,000009TEST,Fictional Harbour Bank,,1998-12-06,,,,,witness,
+SYNTHETIC TEST DATA,,Émile Vey,,TEST-00010,,,,06 Dec 1996,,,,,,
+SYNTHETIC TEST DATA,,,,TEST-00011,000011TEST,,,,,,,,,
+SYNTHETIC TEST DATA,,,,,,,,,,,,,,

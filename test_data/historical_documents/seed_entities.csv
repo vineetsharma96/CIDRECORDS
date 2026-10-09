@@ -1,0 +1,7 @@
+data_label,profile_id,name,aliases,phone,account,bank,address,birth_date,vehicle,organisation,case,date,role,source_id
+SYNTHETIC TEST DATA,SYN-P001,Mira Sen,,TEST-00001,000001TEST,Fictional Harbour Bank,"12 Imaginary Lane, Fictional Bay",1988-04-12,,,SYN-CASE-01,,witness,
+SYNTHETIC TEST DATA,SYN-P002,Arin Das,,TEST-00002,000002TEST,Fictional Harbour Bank,"8 Invented Road, Fictional Bay",1990-11-03,,,SYN-CASE-01,,suspect,
+SYNTHETIC TEST DATA,SYN-P003,Mira Sen,,TEST-00003,,,"91 Imaginary Crescent, Fictional Hill",2001-09-18,,,SYN-CASE-02,,victim,
+SYNTHETIC TEST DATA,SYN-P004,Léa Borel,,TEST-00004,,,"12 Imaginary Lane, Fictional Bay",1985-02-16,,,SYN-CASE-01,,investigator,
+SYNTHETIC TEST DATA,SYN-P005,Noor Rafi,,TEST-00005,000001TEST,Fictional Harbour Bank,"20 Fiction Avenue, Fictional Bay",1993-07-21,,,SYN-CASE-03,,unknown,
+SYNTHETIC TEST DATA,SYN-P006,Eden Rao,,TEST-00006,,,,,,,,,unknown,SYN-REG-006

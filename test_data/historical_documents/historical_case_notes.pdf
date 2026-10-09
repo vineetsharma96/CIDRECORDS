@@ -1,0 +1,147 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document (opensource)
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/Contents 9 0 R /MediaBox [ 0 0 595 842 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+5 0 obj
+<<
+/Contents 10 0 R /MediaBox [ 0 0 595 842 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+6 0 obj
+<<
+/PageMode /UseNone /Pages 8 0 R /Type /Catalog
+>>
+endobj
+7 0 obj
+<<
+/Author (Team NULLVERSE / Dev2Hack) /CreationDate (D:20000101000000+00'00') /Creator (anonymous) /Keywords () /ModDate (D:20000101000000+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (unspecified) /Title (SYNTHETIC TEST DATA - Historical Case Notes) /Trapped /False
+>>
+endobj
+8 0 obj
+<<
+/Count 2 /Kids [ 4 0 R 5 0 R ] /Type /Pages
+>>
+endobj
+9 0 obj
+<<
+/Length 1142
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.066667 .168627 .211765 rg
+n 0 770 595 72 re f*
+1 1 1 rg
+BT /F2 15 Tf 18 TL ET
+BT 1 0 0 1 42 801 Tm (SYNTHETIC TEST DATA) Tj T* ET
+.066667 .168627 .211765 rg
+BT /F2 18 Tf 21.6 TL ET
+BT 1 0 0 1 42 736 Tm (Historical Case Notes) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 42 701 Tm (Case: SYN-CASE-01) Tj T* ET
+BT 1 0 0 1 42 678 Tm (Date: 2024-06-15) Tj T* ET
+BT 1 0 0 1 42 655 Tm (Person: Mira Sen) Tj T* ET
+BT 1 0 0 1 42 632 Tm (Role: witness) Tj T* ET
+BT 1 0 0 1 42 609 Tm (Phone: TEST-00001) Tj T* ET
+BT 1 0 0 1 42 586 Tm (Birth Date: 1988-04-12) Tj T* ET
+BT 1 0 0 1 42 563 Tm (Address: 12 Imaginary Lane, Fictional Bay) Tj T* ET
+BT 1 0 0 1 42 540 Tm  T* ET
+BT 1 0 0 1 42 517 Tm (Person: Arin Das) Tj T* ET
+BT 1 0 0 1 42 494 Tm (Role: suspect) Tj T* ET
+BT 1 0 0 1 42 471 Tm (Phone: TEST-00002) Tj T* ET
+BT 1 0 0 1 42 448 Tm (Birth Date: 1990-11-03) Tj T* ET
+BT 1 0 0 1 42 425 Tm (Relationship: Mira Sen met with Arin Das.) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 42 45 Tm (Fictional people and non-operational identifiers. For testing only.) Tj T* ET
+BT 1 0 0 1 524.479 45 Tm (Page 1) Tj T* ET
+ 
+endstream
+endobj
+10 0 obj
+<<
+/Length 1110
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.066667 .168627 .211765 rg
+n 0 770 595 72 re f*
+1 1 1 rg
+BT /F2 15 Tf 18 TL ET
+BT 1 0 0 1 42 801 Tm (SYNTHETIC TEST DATA) Tj T* ET
+.066667 .168627 .211765 rg
+BT /F2 18 Tf 21.6 TL ET
+BT 1 0 0 1 42 736 Tm (Historical Case Notes) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 42 701 Tm (Case: SYN-CASE-04) Tj T* ET
+BT 1 0 0 1 42 678 Tm (Date: 2024-07-02) Tj T* ET
+BT 1 0 0 1 42 655 Tm (Person: Tara Nolin) Tj T* ET
+BT 1 0 0 1 42 632 Tm (Role: witness) Tj T* ET
+BT 1 0 0 1 42 609 Tm (Phone: TEST-00009) Tj T* ET
+BT 1 0 0 1 42 586 Tm (Birth Date: 1998-12-06) Tj T* ET
+BT 1 0 0 1 42 563 Tm (Account: 000009TEST) Tj T* ET
+BT 1 0 0 1 42 540 Tm (Bank: Fictional Harbour Bank) Tj T* ET
+BT 1 0 0 1 42 517 Tm  T* ET
+BT 1 0 0 1 42 494 Tm (Person: Oren Vale) Tj T* ET
+BT 1 0 0 1 42 471 Tm (Role: unknown) Tj T* ET
+BT 1 0 0 1 42 448 Tm (Phone: TEST-00012) Tj T* ET
+BT 1 0 0 1 42 425 Tm (Birth Date: 1991-06-21) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 42 45 Tm (Fictional people and non-operational identifiers. For testing only.) Tj T* ET
+BT 1 0 0 1 524.479 45 Tm (Page 2) Tj T* ET
+ 
+endstream
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000514 00000 n 
+0000000708 00000 n 
+0000000776 00000 n 
+0000001088 00000 n 
+0000001153 00000 n 
+0000002346 00000 n 
+trailer
+<<
+/ID 
+[<980d409d64c50bfb794909d1879d1ea1><980d409d64c50bfb794909d1879d1ea1>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 7 0 R
+/Root 6 0 R
+/Size 11
+>>
+startxref
+3508
+%%EOF

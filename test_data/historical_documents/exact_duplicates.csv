@@ -1,0 +1,4 @@
+data_label,profile_id,name,aliases,phone,account,bank,address,birth_date,vehicle,organisation,case,date,role,source_id
+SYNTHETIC TEST DATA,SYN-P001,Mira Sen,,TEST-00001,000001TEST,Fictional Harbour Bank,"12 Imaginary Lane, Fictional Bay",1988-04-12,,,SYN-CASE-01,,witness,
+SYNTHETIC TEST DATA,SYN-P001,Mira Sen,,TEST-00001,000001TEST,Fictional Harbour Bank,"12 Imaginary Lane, Fictional Bay",1988-04-12,,,SYN-CASE-01,,witness,
+SYNTHETIC TEST DATA,SYN-P002,Arin Das,,TEST-00002,000002TEST,Fictional Harbour Bank,"8 Invented Road, Fictional Bay",1990-11-03,,,SYN-CASE-01,,suspect,

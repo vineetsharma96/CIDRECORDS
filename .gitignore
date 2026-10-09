@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.runtime/
+venv/
+.env
+backend/data/
+__pycache__/
+.pytest_cache/
+test-results/
+playwright-report/
+tmp/

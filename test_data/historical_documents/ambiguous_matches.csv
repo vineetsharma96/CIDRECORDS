@@ -1,0 +1,5 @@
+data_label,profile_id,name,aliases,phone,account,bank,address,birth_date,vehicle,organisation,case,date,role,source_id
+SYNTHETIC TEST DATA,,Mira Sen,,,,,,,,,,,,
+SYNTHETIC TEST DATA,,Mira Sen,,TEST-00001,,,,1970-01-01,,,,,,
+SYNTHETIC TEST DATA,,Mira Senn,,TEST-00001,,,,12/04/1988,,,,,,
+SYNTHETIC TEST DATA,,Arin Das,,TEST-OTHER-002,,,,1990-11-03,,,,,,

@@ -1,0 +1,2 @@
+data_label,from_account,to_account,from_bank,to_bank,amount,transaction_date,case
+SYNTHETIC TEST DATA,000TEST-FROM,000TEST-TO,Fictional Bank A,Fictional Bank B,25.00,2024-04-01,SYN-FIN
